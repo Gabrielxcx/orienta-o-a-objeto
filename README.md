@@ -1,3 +1,2 @@
-# orienta-o-a-objeto
-estudos
-estou analisando e tentando entender mais o processo de uma class e suas variaveis 
+# BRB INTEGRAÇÃo
+Em suma criar uma integração com o sql e o excell para facilitação de ações manuais sem necessidade 
